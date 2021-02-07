@@ -24,6 +24,7 @@
 //soal 1
 var angka1=10;
 var angka2=8;
+var angka3=2;
 
 if(angka1 > angka2)
     console.log("Angka 1 lebih besar dari Angka 2");
